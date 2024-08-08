@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository contains two job simulation I engaged in during the Blackbird Software Engineering Job simulation.
+This repository contains two job simulation projects I engaged in during the Blackbird Software Engineering Job simulation.
 
 ### Project 1: Email and Password Form Validation
 
